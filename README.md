@@ -47,11 +47,11 @@ The full workflow is implemented in `notebooks/XYZ_prediction.ipynb` and summari
 
 5. **Results Summary**
 
-| Model               | Precision (Adopter) | Recall (Adopter) | F1-score (Adopter) | ROC AUC | Total Cost |
-| ------------------- | ------------------- | ---------------- | ------------------ | ------- | ---------- |
-| Logistic Regression | 0.12                | 0.36             | 0.18               | 0.78    | $2791      |
-| Random Forest       | 0.12                | 0.44             | 0.19               | 0.80    | $2733      |
-| LightGBM            | 0.12                | 0.45             | 0.19               | 0.80    | $2701      |
+| Model               | Precision (Adopter) | Recall (Adopter) | F1-score (Adopter) | ROC AUC | 
+| ------------------- | ------------------- | ---------------- | ------------------ | ------- | 
+| Logistic Regression | 0.12                | 0.36             | 0.18               | 0.78    | 
+| Random Forest       | 0.12                | 0.44             | 0.19               | 0.80    | 
+| LightGBM            | 0.12                | 0.45             | 0.19               | 0.80    | 
 
 6. **Final Deliverables**
    - **Notebook**: `notebooks/XYZ_prediction.ipynb` with full code, commentary, and plots.
