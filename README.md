@@ -53,7 +53,3 @@ The full workflow is implemented in `notebooks/XYZ_prediction.ipynb` and summari
 | Random Forest       | 0.12                | 0.44             | 0.19               | 0.80    | 
 | LightGBM            | 0.12                | 0.45             | 0.19               | 0.80    | 
 
-6. **Final Deliverables**
-   - **Notebook**: `notebooks/XYZ_prediction.ipynb` with full code, commentary, and plots.
-   - **Documentation**: This `README.md` and a summary report in `docs/Report.pdf`.
-
